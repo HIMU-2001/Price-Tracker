@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Price-Tracker/static/css/main.eb94a61c.css",
+    "main.js": "/Price-Tracker/static/js/main.ee24dcb8.js",
+    "index.html": "/Price-Tracker/index.html",
+    "main.eb94a61c.css.map": "/Price-Tracker/static/css/main.eb94a61c.css.map",
+    "main.ee24dcb8.js.map": "/Price-Tracker/static/js/main.ee24dcb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb94a61c.css",
+    "static/js/main.ee24dcb8.js"
+  ]
+}
